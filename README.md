@@ -7,3 +7,5 @@ Different kinds of codes, including:
 - Graphical data analisis
 
 When I have the skills, I will add Machine Learning process.
+
+The [Data](https://www.kaggle.com/competitions/titanic/data) files.

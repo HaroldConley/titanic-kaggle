@@ -1,4 +1,6 @@
 # titanic-kaggle
+My very first approach to data science, without any knowledge (or any library).
+
 Different Python codes to make predictions based on data.
 
 Different kinds of codes, including:
